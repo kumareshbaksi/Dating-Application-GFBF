@@ -1,4 +1,4 @@
-Spalsh screen with a greetings including user name.
+##Spalsh screen with a greetings including user name.
 ![1](https://user-images.githubusercontent.com/77186777/198884495-8f7b40f3-de2b-41ea-8aee-f7a0e12f49ff.png)
 Firebase authentication is used to verify user.
 ![2](https://user-images.githubusercontent.com/77186777/198884496-a7221d96-3ebf-46f6-8959-a4817d6a28a7.png)
