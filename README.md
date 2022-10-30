@@ -13,4 +13,4 @@
 ## Visit other options of the applications.
 <img src="https://user-images.githubusercontent.com/77186777/198884493-1c56e6a3-6c6f-488d-8b3d-b66e6a2cc322.png" width="300">
 
-To be honest, I was working on this project when I was very new to Android Studio and java. So, code is bit buggy. I would try to fix the things later.
+**To be honest, I was working on this project when I was very new to Android Studio and java. So, code is bit buggy. I would try to fix the things later.**
