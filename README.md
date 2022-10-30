@@ -1,5 +1,5 @@
 ## Spalsh screen with a greetings including user name.
-<img src="https://user-images.githubusercontent.com/77186777/198884495-8f7b40f3-de2b-41ea-8aee-f7a0e12f49ff.png" width="100">
+<img src="https://user-images.githubusercontent.com/77186777/198884495-8f7b40f3-de2b-41ea-8aee-f7a0e12f49ff.png" width="300">
 
 ![1](https://user-images.githubusercontent.com/77186777/198884495-8f7b40f3-de2b-41ea-8aee-f7a0e12f49ff.png | width=100)
 ## Firebase authentication is used to verify user.
