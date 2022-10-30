@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/receiver_massage_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="6dp"
+        android:layout_marginLeft="6dp"
+        android:layout_marginTop="12dp"
+        android:layout_toEndOf="@+id/masssage_profileImage"
+        android:layout_toRightOf="@+id/masssage_profileImage"
+        android:background="@drawable/receiever_massage_layout"
+        android:elevation="10dp"
+        android:padding="10dp"
+        android:text="Reciver Massage Here"
+        android:textColor="#000000"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        tools:ignore="UnknownId" />
+
+
+
+
+</RelativeLayout>
