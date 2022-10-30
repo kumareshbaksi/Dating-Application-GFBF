@@ -11,6 +11,6 @@
 ## Strat chatting with others.
 <img src="https://user-images.githubusercontent.com/77186777/198884490-928fc080-eeb3-4947-9ac5-908b1fd9c5ed.png" width="300">.
 ## Visit other options of the applications.
-<img src="https://user-images.githubusercontent.com/77186777/198884493-1c56e6a3-6c6f-488d-8b3d-b66e6a2cc322.png" width="300"
+<img src="https://user-images.githubusercontent.com/77186777/198884493-1c56e6a3-6c6f-488d-8b3d-b66e6a2cc322.png" width="300">
 
 
